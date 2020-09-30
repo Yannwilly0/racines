@@ -10,13 +10,10 @@
     font-weight: 500;
     padding: 5px;
 }
-.app-text h3{
-    margin-top: 100px;
+.text-h3{
     font-size: 17px;
-    color: #000;
     font-weight: 400;
     letter-spacing: 2px;
-    text-transform: uppercase;
 }
 
 .app-text h1{
@@ -26,15 +23,23 @@
     font-weight: 700;
     line-height: 1;
 }
-
+.center {         
+    margin-left: 10%;      
+    margin-right: 10%;
+    width: auto;
+}
 .gold
 {
     color: #9facd5;
 }
 
-.bg{
+.home-bg{
     background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
     min-height: 90vh;
+}
+.dec-bg{
+    background-image: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
+    min-height: 35vh;
 }
 body
 {
@@ -67,4 +72,8 @@ body
 .culture
 {
     color: #9facd5;
+}
+.bg-card
+{
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
 }
