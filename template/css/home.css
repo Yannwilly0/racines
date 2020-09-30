@@ -28,6 +28,12 @@
     margin-right: 10%;
     width: auto;
 }
+
+.m-center {         
+    margin-left: 20%;      
+    margin-right: 20%;
+    width: auto;
+}
 .gold
 {
     color: #9facd5;
@@ -72,8 +78,4 @@ body
 .culture
 {
     color: #9facd5;
-}
-.bg-card
-{
-    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
 }
