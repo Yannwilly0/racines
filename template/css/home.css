@@ -24,14 +24,19 @@
     line-height: 1;
 }
 .center {         
-   
+    margin-left: 3%;      
+    width: auto;
 }
 
 .m-center {         
-    
+    margin-left: 18%;      
+    margin-right: 18%;
+    width: auto;
 }
 .stats-center {         
-   
+    margin-left: 13%;      
+    margin-right: 13%;
+    width: auto;
 }
 .gold
 {
