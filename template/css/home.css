@@ -34,6 +34,11 @@
     margin-right: 20%;
     width: auto;
 }
+.stats-center {         
+    margin-left: 13%;      
+    margin-right: 13%;
+    width: auto;
+}
 .gold
 {
     color: #9facd5;
